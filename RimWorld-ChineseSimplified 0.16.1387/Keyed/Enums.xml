@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>黑暗</Dark>
+  <Lit>光亮</Lit>
+  <LitBrightly>非常光亮</LitBrightly>
+
+  <!-- history upload pref -->
+  <Unspecified>未决定</Unspecified>
+  <Always>允许</Always>
+  <Never>不允许</Never>
+
+  <!-- Price types -->
+  <PriceTypeVeryCheap>非常便宜</PriceTypeVeryCheap>
+  <PriceTypeCheap>便宜</PriceTypeCheap>
+  <PriceTypeNormal>一般</PriceTypeNormal>
+  <PriceTypeExpensive>昂贵</PriceTypeExpensive>
+  <PriceTypeExorbitant>非常昂贵</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>不储存</StoragePriorityUnstored>
+  <StoragePriorityLow>较低</StoragePriorityLow>
+  <StoragePriorityNormal>普通</StoragePriorityNormal>
+  <StoragePriorityPreferred>优先</StoragePriorityPreferred>
+  <StoragePriorityImportant>重要</StoragePriorityImportant>
+  <StoragePriorityCritical>关键</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>蔬果</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>生肉</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>尸体</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>畜产品</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>植物</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>树木</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>烹饪食品</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>加工食品</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>酒类</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>动物饲料</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>极差</QualityCategory_Awful>
+  <QualityCategory_Shoddy>很差</QualityCategory_Shoddy>
+  <QualityCategory_Poor>较差</QualityCategory_Poor>
+  <QualityCategory_Normal>一般</QualityCategory_Normal>
+  <QualityCategory_Good>良好</QualityCategory_Good>
+  <QualityCategory_Superior>优秀</QualityCategory_Superior>
+  <QualityCategory_Excellent>极佳</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>大师级</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>传奇级</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>极差</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>很差</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>较差</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>一般</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>良好</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>优秀</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>极佳</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>大师</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>传奇</QualityCategoryShort_Legendary>
+
+  <!-- Hunger -->
+  <HungerLevel_Starving>极度饥饿</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>非常饥饿</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>饥饿</HungerLevel_Hungry>
+  <HungerLevel_Fed>饱</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>极度疲劳</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>非常疲劳</HungerLevel_VeryTired>
+  <HungerLevel_Tired>疲劳</HungerLevel_Tired>
+  <HungerLevel_Rested>精力充沛</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>平原</Hilliness_Flat>
+  <Hilliness_SmallHills>小丘陵</Hilliness_SmallHills>
+  <Hilliness_LargeHills>大丘陵</Hilliness_LargeHills>
+  <Hilliness_Mountainous>山地</Hilliness_Mountainous>
+  <Hilliness_Impassable>impassable</Hilliness_Impassable>
+
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>创建</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>提交</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>无效</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>准备配置数据</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>准备内容文件</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>上传内容文件</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>上传预览文件</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>提交变更</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>本地文件夹</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam创意工坊</ContentSource_SteamWorkshop>
+
+  <!-- Trainable intelligence -->
+  <TrainableIntelligence_None>无</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>低级</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>中级</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>高级</TrainableIntelligence_Advanced>
+
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>无医生照顾</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>有医生照顾，无药物</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>提供草药等级及以下的药物</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>提供普通药物等级或以下的药物</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>提供最高等级的医疗照顾</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>无视</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>反击</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>逃跑</HostilityResponseMode_Flee>
+
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>加重</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>稳定</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>缓解</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <TechLevel_Animal>茹毛饮血</TechLevel_Animal>
+  <TechLevel_Neolithic>石器时代</TechLevel_Neolithic>
+  <TechLevel_Medieval>中世纪</TechLevel_Medieval>
+  <TechLevel_Industrial>工业时代</TechLevel_Industrial>
+  <TechLevel_Spacer>太空时代</TechLevel_Spacer>
+  <TechLevel_Ultra>极致时代</TechLevel_Ultra>
+  <TechLevel_Transcendent>超凡时代</TechLevel_Transcendent>
+
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>固定</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>空投舱</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>所有角色</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>玩家初始角色</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>NPC</PawnGenerationContext_NonPlayer>
+
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>显示动物名称</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>已驯服（已命名）</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>已驯服（所有）</AnimalNameDisplayMode_TameAll>
+
+  <!-- Temperature -->
+  <Celsius>摄氏</Celsius>
+  <Fahrenheit>华氏</Fahrenheit>
+  <Kelvin>开尔文</Kelvin>
+
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+
+  <!--<FoodTypeFlags_Seeds>谷物</FoodTypeFlags_Seeds>-->
+  <!-- Spoil reason -->
+  <!--<SpoilReason_Freezing>因低温而变质。</SpoilReason_Freezing>-->
+  <!--<SpoilReason_HighTemperature>因高温而变质。</SpoilReason_HighTemperature>-->
+
+</LanguageData>

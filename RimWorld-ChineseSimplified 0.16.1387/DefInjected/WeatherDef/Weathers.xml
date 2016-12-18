@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Clear.label>晴</Clear.label>
+  <Clear.description>天气晴朗，没有任何惩罚或者加成。</Clear.description>
+
+  <Fog.label>雾</Fog.label>
+  <Fog.description>雾会降低远程武器的命中率。</Fog.description>
+
+  <Rain.label>雨</Rain.label>
+  <Rain.description>雨会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。</Rain.description>
+
+  <DryThunderstorm.label>旱天雷</DryThunderstorm.label>
+  <DryThunderstorm.description>旱天雷很危险，因为闪电会引发火灾，同时又没有扑灭火焰的雨水。</DryThunderstorm.description>
+
+  <RainyThunderstorm.label>暴风雨</RainyThunderstorm.label>
+  <RainyThunderstorm.description>闪电会引发火灾，但是雨水会把火扑灭。同时大雨会降低移动速度和远程武器的命中率。</RainyThunderstorm.description>
+
+  <FoggyRain.label>雾雨</FoggyRain.label>
+  <FoggyRain.description>大雾和大雨会降低远程武器的命中率和移动速度。</FoggyRain.description>
+
+  <SnowHard.label>大雪</SnowHard.label>
+  <SnowHard.description>大雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。</SnowHard.description>
+
+  <SnowGentle.label>小雪</SnowGentle.label>
+  <SnowGentle.description>小雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。</SnowGentle.description>
+
+
+</LanguageData>

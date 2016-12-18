@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>清单</TabBills>
+  <TabGrowing>种植</TabGrowing>
+  <TabCharacter>角色</TabCharacter>
+  <TabTraining>训练</TabTraining>
+  <TabPrisoner>囚犯</TabPrisoner>
+  <TabGuest>访客</TabGuest>
+  <TabGear>装备</TabGear>
+  <TabNeeds>需求</TabNeeds>
+  <TabStorage>储存筛选</TabStorage>
+  <TabHealth>健康</TabHealth>
+  <TabRace>种族</TabRace>
+  <TabBasics>基础</TabBasics>
+  <TabStats>状态</TabStats>
+  <TabRecords>记录</TabRecords>
+  <TabArt>艺术</TabArt>
+  <TabSocial>社交</TabSocial>
+
+
+  <!-- Bills tab  -->
+  <AddBill>添加清单</AddBill>
+  <RecipeRequiresSkills>配方{0}有以下技能要求。你没有达到该技能要求的殖民者，因此这份清单将无人完成。</RecipeRequiresSkills>
+  <MinimumSkill>最低技能要求</MinimumSkill>
+  <SuspendedCaps>已暂停</SuspendedCaps>
+  <BoundWorkerIs>绑定工作者：{0}</BoundWorkerIs>
+  <PlantVerb>种植</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>招募难度</RecruitmentDifficulty>
+  <GetsFood>食物供应</GetsFood>
+  <DoctorsCare>医生照顾</DoctorsCare>
+  <GetsMedicine>药物供应</GetsMedicine>
+  <ShouldTryToRecruit>尝试招募</ShouldTryToRecruit>
+  <PrisonerNoInteraction>不互动</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>友好交谈</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>尝试招募</PrisonerAttemptRecruit>
+  <PrisonerRelease>释放</PrisonerRelease>
+  <PrisonerExecution>处决</PrisonerExecution>
+  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>移动速度</MoveSpeed>
+  <Efficiency>效率</Efficiency>
+  <MissingBodyPart>不存在</MissingBodyPart>
+  <DestroyedBodyPart>被毁</DestroyedBodyPart>
+  <ShatteredBodyPart>击碎</ShatteredBodyPart>
+  <RemovedBodyPart>移除</RemovedBodyPart>
+  <Healthy>健康</Healthy>
+  <InPain>感到疼痛</InPain>
+  <PainLevel>疼痛</PainLevel>
+  <Injured>受伤</Injured>
+  <NoInjuries>（没有受伤）</NoInjuries>
+  <WholeBody>全身</WholeBody>
+  <DataProcessing>数据处理</DataProcessing>
+  <Communication>交流</Communication>
+  <Affects>影响</Affects>
+  <BleedingRate>失血速率</BleedingRate>
+  <TimeToDeath>death in {0}</TimeToDeath>
+  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+  <HealthOverview>概况</HealthOverview>
+  <MedicalOperationsShort>手术（{0}）</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>改造（{0}）</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>医疗手术</MedicalOperations>
+  <Amputate>截肢</Amputate>
+  <Harvest>摘取</Harvest>
+  <RemoveOrgan>摘除</RemoveOrgan>
+  <MemoryLower>记忆</MemoryLower>
+  <SocialInteractionsLower>社交互动</SocialInteractionsLower>
+  <HungerRate>饥饿度</HungerRate>
+  <Tiredness>疲劳度</Tiredness>
+  <PainFactor>痛觉系数</PainFactor>
+  <PreventsInfection>抗感染</PreventsInfection>
+
+
+  <!-- Medical - Body and activities condition -->
+  <None>无</None>
+  <VeryPoor>极差</VeryPoor>
+  <Poor>较差</Poor>
+  <Weakened>虚弱</Weakened>
+  <GoodCondition>健康</GoodCondition>
+  <Enhanced>增强</Enhanced>
+  <SeriouslyImpaired>严重受损</SeriouslyImpaired>
+  <Impaired>受损</Impaired>
+  <SlightlyImpaired>轻微受损</SlightlyImpaired>
+  <NoPain>无</NoPain>
+  <LittlePain>轻微</LittlePain>
+  <MediumPain>中等</MediumPain>
+  <SeverePain>强烈</SeverePain>
+  <ExtremePain>极强</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>智力级别</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>智力级别要求：{0}。</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0}尚在幼年，无法训练。</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>先决条件：{0}</TrainingNeedsPrerequisite>
+
+  <!-- Social tab -->
+  <NoRelationships>（无关系）</NoRelationships>
+  <Kidnapped>被绑架</Kidnapped>
+  <Slave>奴隶</Slave>
+  <FactionLeader>派系首领</FactionLeader>
+  <OpinionOf>对{0}的印象</OpinionOf>
+  <SomeonesOpinionOfMe>{0}对我的印象</SomeonesOpinionOfMe>
+  <IAmDead>我死了</IAmDead>
+  <IAmPsychopath>我心理变态</IAmPsychopath>
+
+  <!-- Gear tab -->
+  <AverageArmor>平均护甲</AverageArmor>
+  <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+  <ComfyTemperatureRange>适宜温度范围</ComfyTemperatureRange>
+  <ArmorBlunt>钝器护甲</ArmorBlunt>
+  <ArmorSharp>利器护甲</ArmorSharp>
+  <ArmorHeat>热能护甲</ArmorHeat>
+  <ArmorElectric>电能护甲</ArmorElectric>
+
+  <!--<Dead>死亡</Dead>-->
+  <!--<Unconscious>失去知觉</Unconscious>-->
+  <!--<PainShock>暂时休克</PainShock>-->
+
+</LanguageData>

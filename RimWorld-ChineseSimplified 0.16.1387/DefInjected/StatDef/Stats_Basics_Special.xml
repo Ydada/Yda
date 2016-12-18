@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedicalPotency.label>医疗效力</MedicalPotency.label>
+  <MedicalPotency.description>这个物品用于治疗伤口和疾病，或者进行手术时的效力。更高的医疗效力能提高治愈伤口的几率，并且降低手术过程中的事故几率。</MedicalPotency.description>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beam -->
+
+  <Ship_Beam.label>飞船结构梁</Ship_Beam.label>
+  <Ship_Beam.description>一根用来支撑飞船其他部分的结构梁，在其周围能建造飞船。</Ship_Beam.description>
+
+
+  <!-- Cryptosleep casket -->
+
+  <Ship_CryptosleepCasket.label>飞船低温休眠舱</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>一个经过强化可以抵抗太空中威胁的低温休眠舱。可以维持一个人在太空中持续休眠几个世纪并可以安全再入大气层。</Ship_CryptosleepCasket.description>
+
+
+  <!-- Computer core -->
+
+  <Ship_ComputerCore.label>飞船电脑核心</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>一个电脑核心，装载有类似于超人一般的人工智能，可以带领飞船经受任何挑战。</Ship_ComputerCore.description>
+
+
+  <!-- Reactor -->
+
+  <Ship_Reactor.label>飞船反应炉</Ship_Reactor.label>
+  <Ship_Reactor.description>在太空的漫长旅途中给飞船提供能量。</Ship_Reactor.description>
+
+
+  <!-- Engine -->
+
+  <Ship_Engine.label>飞船推进器</Ship_Engine.label>
+  <Ship_Engine.description>一台可将飞船送入星球轨道和星际轨道的推进器。</Ship_Engine.description>
+
+
+</LanguageData>

@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forbid -->
+  <CommandForbid>Forbid</CommandForbid>
+  <CommandForbiddenDesc>已禁用\n殖民者不会和该物品互动。</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>未禁用\n殖民者会和该物品互动。</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>开关电源</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>开关电源。</CommandTogglePowerDesc>
+
+  <CommandDesignateTogglePowerLabel>指派开关电源</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>指定一件需要切换供电开关的电器。一名殖民者将随后前往拨动开关。</CommandDesignateTogglePowerDesc>
+
+  <CommandTryReconnectLabel>重新连接</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>尝试重新连接到连接范围内的另一电网上。在当前连接的电网没有电但附近有另一个电网有电时很有用。</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>闲逛集合点</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>已开启\n殖民者们闲逛时会在该物品附近集合。</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>已关闭\n殖民者们闲逛时不会在该物品附近集合。</CommandGatherSpotToggleDescInactive>
+
+
+  <!-- Drafting -->
+  <CommandDraftLabel>征召</CommandDraftLabel>
+  <CommandUndraftLabel>解散</CommandUndraftLabel>
+  <CommandToggleDraftDesc>切换征召状态。\n\n被征召的人会遵守命令并战斗。解散前他们不会工作，吃饭或着休息。</CommandToggleDraftDesc>
+  <IsIncapped>{0}无法行动。</IsIncapped>
+
+  <CommandAllowFiringLabel>Allow firing</CommandAllowFiringLabel>
+  <CommandAllowFiringDesc>Toggle allow firing.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandAllowFiringDesc>
+
+  <CommandClearPrioritizedWork>清除优先任务</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>清除任何你指定的优先任务。该角色将根据自身工作优先度自行选择工作。</CommandClearPrioritizedWorkDesc>
+
+  <CommandCancelConstructionLabel>取消</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>取消建造命令。</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>离开当前的床。</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>指定所属</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>将此床分配给指定的殖民者。</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>指定殖民者</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>将此墓分配给指定的殖民者。</CommandGraveAssignColonistDesc>
+  <BuildingAssign>指定</BuildingAssign>
+  <BuildingUnassign>解除指定</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>囚犯专用</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>把此房间内的所有床设为囚犯专用。</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>无法将室外的床设为囚犯专用。</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>医疗专用</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>将此床设为医疗用途的床。</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>开启囚犯专用模式将会影响整个房间（囚犯和殖民者不能睡在同一个房间）。\n\n以下角色将会失去他们对床的所有权：</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>关闭囚犯专用模式将会影响整个房间（囚犯和殖民者不能睡在同一个房间）。\n\n以下角色将会失去他们对床的所有权：</TurningOffPrisonerBedWarning>
+  <AreYouSure>你确定要这么做吗?</AreYouSure>
+
+  <CommandDetonateLabel>爆破</CommandDetonateLabel>
+  <CommandDetonateDesc>开始爆破倒计时。</CommandDetonateDesc>
+
+  <CommandRenameZoneLabel>重命名</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>重命名该区域。</CommandRenameZoneDesc>
+
+  <CommandHideZoneLabel>隐藏</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>显示</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>显示/隐藏该区域。</CommandHideZoneDesc>
+
+  <CommandDeleteZoneLabel>删除</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>删除该区域。</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>复制区域设置</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>将此区域的设置复制到剪贴板，可以将设置粘贴到另一个区域上。</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>粘贴区域设置</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>使用剪贴板上的设置覆盖此区域的设置。</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>允许播种</CommandAllowSow>
+  <CommandAllowSowDesc>当禁用时，殖民者不会在此区域播种植物。但他们仍然会收获成熟的植物。</CommandAllowSowDesc>
+
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>强制攻击</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>选择此炮塔不断尝试强制攻击的目标。</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>停止强制攻击</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>停止强制攻击目标并允许此炮塔自由选择目标开火。</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>当前无强制攻击目标。</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>目标距离大于最大射程。</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>目标距离小于最小射程。</MessageTargetBelowMinimumRange>
+
+  <!-- Ship computer core -->
+  <CommandShipLaunch>发射飞船</CommandShipLaunch>
+  <CommandShipLaunchDesc>使用当前飞船设置开始飞船发射程序。</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>显示发射报告</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>显示一份关于飞船发射能力的报告。</CommandShipLaunchReportDesc>
+
+  <!-- Pod -->
+  <CommandPodEject>弹出休眠者</CommandPodEject>
+  <CommandPodEjectDesc>唤醒低温休眠舱内的殖民者并将他们弹出。</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>低温休眠舱内没有人。</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorForbid>允许通行</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>此门的通行状态。殖民者不会通过禁止通行的门，但不影响其他派系的人。</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>保持敞门</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>启用时，殖民者将不会关闭这道门，并保持一直敞开的状态。\n\n门敞开时任何人或动物都能通过，包括敌人。</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>重置</CommandResetTemp>
+  <CommandResetTempDesc>将目标温度重置为默认值。</CommandResetTempDesc>
+  <CommandRaiseTempDesc>提高目标温度。</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>降低目标温度。</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <CommandInstall>安装</CommandInstall>
+  <CommandInstallDesc>该物品已被打包以便于运输与贮藏，使用该指令可将物品安装于指定地点。</CommandInstallDesc>
+  <CommandReinstall>重新安装</CommandReinstall>
+  <CommandReinstallDesc>指定将此物品卸载，并重新安装在其他地方。</CommandReinstallDesc>
+
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>在轨道交易信标有效半径范围内创建一个储存区。</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>建立储存区</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>在太阳灯有效半径范围内创建一个种植区。</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>建立种植区</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>自动重置</CommandAutoRearm>
+  <CommandAutoRearmDesc>启用时，该陷阱会在触发后自动被指派重置工作。</CommandAutoRearmDesc>
+
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>出击</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>启用时，经过训练的动物可以主动出击，攻击远处目标。禁用时，它们则在身边保护主人。</CommandReleaseAnimalsDesc>
+
+  <!-- Squad attack -->
+  <CommandSquadAttack>攻击</CommandSquadAttack>
+  <CommandSquadAttackDesc>命令选定的殖民者攻击指定目标。</CommandSquadAttackDesc>
+
+  <!-- Hold fire -->
+  <CommandHoldFire>停火</CommandHoldFire>
+  <CommandHoldFireDesc>停止所有正在进行的攻击。</CommandHoldFireDesc>
+
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>选择所要种植的植物。</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>种植：{0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>指定此处种植何种植物。</CommandSelectPlantToGrowDesc>
+
+  <!-- Build copy -->
+  <CommandBuildCopy>复制建筑</CommandBuildCopy>
+  <CommandBuildCopyDesc>复制当前的建筑设施。</CommandBuildCopyDesc>
+
+  <!-- Form caravan -->
+  <CommandFormCaravan>Form caravan</CommandFormCaravan>
+  <CommandFormCaravanDesc>Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
+
+  <!-- Reform caravan -->
+  <CommandReformCaravan>Reform caravan</CommandReformCaravan>
+  <CommandReformCaravanDesc>Reform a group of colonists. The colonists will leave their current area and await further orders.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>There are still some enemies in this area.</CommandReformCaravanFailHostilePawns>
+
+  <!-- Split caravan -->
+  <CommandSplitCaravan>Split</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other.</CommandSplitCaravanDesc>
+
+  <!-- Merge caravan -->
+  <CommandMergeCaravans>Merge</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Merge selected caravans.</CommandMergeCaravansDesc>
+
+  <!-- Settle -->
+  <CommandSettle>Settle</CommandSettle>
+  <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
+  <CommandSettleFailOtherWorldObjectsHere>Your caravan must be the only object on this tile in order to settle the area.</CommandSettleFailOtherWorldObjectsHere>
+  <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
+
+  <!-- Abandon home -->
+  <CommandAbandonHome>Abandon</CommandAbandonHome>
+  <CommandAbandonHomeDesc>Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>All of your colonists are there.</CommandAbandonHomeFailAllColonistsThere>
+
+  <!-- Cancel forming caravan -->
+  <CommandCancelFormingCaravan>Cancel forming caravan</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>Terminate the caravan formation process.</CommandCancelFormingCaravanDesc>
+
+  <!-- Show map -->
+  <CommandShowMap>Zoom in</CommandShowMap>
+  <CommandShowMapDesc>Zoom in on this area.</CommandShowMapDesc>
+
+  <!-- Trade -->
+  <CommandTrade>Trade</CommandTrade>
+  <CommandTradeDesc>Trade with this faction.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>There isn't any conscious, not broken negotiator.</CommandTradeFailNoNegotiator>
+
+  <!-- Take off -->
+  <CommandTakeOff>Take off</CommandTakeOff>
+  <CommandTakeOffDesc>Get on board the ship and escape the planet.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind.</CommandTakeOffConfirmation>
+
+  <!-- Set target fuel level -->
+  <CommandSetTargetFuelLevel>Set target fuel level</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>Set the target fuel level. Colonists will attempt to fill this up to the target fuel level.</CommandSetTargetFuelLevelDesc>
+
+  <!-- Cancel load -->
+  <CommandCancelLoad>Cancel load</CommandCancelLoad>
+  <CommandCancelLoadDesc>Cancel loading this with people or items and eject everything already loaded.</CommandCancelLoadDesc>
+
+  <!-- Launch group -->
+  <CommandLaunchGroup>Launch group</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Some transport pods in this loading group are not connected to a fueling port.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Some pod launchers in this group have no fuel.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Some pod launchers are under a roof.</CommandLaunchGroupFailUnderRoof>
+
+  <!-- Load transporter -->
+  <CommandLoadTransporter>Load launch group of {0}</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>The transport pod is not connected to a fueling port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>The pod launcher has no fuel.</CommandLoadTransporterFailNoFuel>
+
+  <!-- Select previous transporter -->
+  <CommandSelectPreviousTransporter>Select previous in launch group</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Select previous transport pod in this launch group.</CommandSelectPreviousTransporterDesc>
+
+  <!-- Select all transporters -->
+  <CommandSelectAllTransporters>Select launch group</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Select all transport pods in this launch group.</CommandSelectAllTransportersDesc>
+
+  <!-- Select next transporter -->
+  <CommandSelectNextTransporter>Select next in launch group</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Select next transport pod in this launch group.</CommandSelectNextTransporterDesc>
+
+</LanguageData>

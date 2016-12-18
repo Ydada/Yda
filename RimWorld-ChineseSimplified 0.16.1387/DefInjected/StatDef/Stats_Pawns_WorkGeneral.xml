@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkSpeedGlobal.label>全局工作速度</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>此人在做任何工作时的速度系数。</WorkSpeedGlobal.description>
+
+  <MiningSpeed.label>采矿速度</MiningSpeed.label>
+  <MiningSpeed.description>此人在开采矿石时的速度。</MiningSpeed.description>
+
+  <SmoothingSpeed.label>打磨速度</SmoothingSpeed.label>
+  <SmoothingSpeed.description>此人在打磨粗糙石面时的速度。</SmoothingSpeed.description>
+
+  <ResearchSpeed.label>研究速度</ResearchSpeed.label>
+  <ResearchSpeed.description>此人在研究时的速度。</ResearchSpeed.description>
+
+  <ConstructionSpeed.label>建造速度</ConstructionSpeed.label>
+  <ConstructionSpeed.description>此人在建造与修理建筑物时的速度。</ConstructionSpeed.description>
+
+  <PlantWorkSpeed.label>种植速度</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>此人在种植与收获植物时的速度。</PlantWorkSpeed.description>
+
+  <HarvestFailChance.label>收获失败几率</HarvestFailChance.label>
+  <HarvestFailChance.description>此人在收获过程中意外破坏收获物的几率。</HarvestFailChance.description>
+
+  <ConstructFailChance.label>建造失败几率</ConstructFailChance.label>
+  <ConstructFailChance.description>此人在建造建筑物时失败的几率。失败时会浪费时间和原材料。</ConstructFailChance.description>
+
+  <FixBrokenDownBuildingFailChance.label>修复失败几率</FixBrokenDownBuildingFailChance.label>
+  <FixBrokenDownBuildingFailChance.description>此人在修理损坏的建筑物（更换零部件）时失败的几率。</FixBrokenDownBuildingFailChance.description>
+
+
+</LanguageData>
